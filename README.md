@@ -22,6 +22,8 @@ Ao abrir o arquivo pae_demonstracao habilite as macros para usar o programa.
 
 O programa pode ser adaptado para atender a necessidade da sua escola.
 
+Com os dados de acesso inseridos quando um professor é cadastrado e com o Diário de Notas (bônus), o professor pode lançar as notas em casa e automaticamente o Programa de Administração Escola - PAE é atualizado.
+
 Contato com o desenvolvedor:
 jonatas@jmpimenta.com.br
 21 98773-9190
