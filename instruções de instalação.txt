@@ -18,7 +18,7 @@ Na guia Geral, em Segurança, que está no final da tela marque a opção Desblo
 
 Clique em Aplicar e OK.
 
-Usa a chave de ativação 123654.
+Usa a chave de ativação 123653.
 
 Para fazer login use os seguintes dados login: jpimenta senha: 1234
 
