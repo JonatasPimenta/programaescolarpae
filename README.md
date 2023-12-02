@@ -20,6 +20,12 @@ Clique em Aplicar e OK.
 
 Ao abrir o arquivo pae_demonstracao habilite as macros para usar o programa.
 
+Usa a chave de ativação 123654.
+
+Para fazer login use os dados abaixo
+login: jpimenta
+senha: 1234
+
 O programa pode ser adaptado para atender a necessidade da sua escola.
 
 Com os dados de acesso inseridos quando um professor é cadastrado e com o Diário de Notas (bônus), o professor pode lançar as notas em casa e automaticamente o Programa de Administração Escola - PAE é atualizado.
