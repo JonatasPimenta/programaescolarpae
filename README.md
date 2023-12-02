@@ -22,7 +22,7 @@ Ao abrir o arquivo pae_demonstracao habilite as macros para usar o programa.
 
 Usa a chave de ativação 123654.
 
-Para fazer login use os dados abaixo
+Para fazer login use os seguintes dados
 login: jpimenta
 senha: 1234
 
