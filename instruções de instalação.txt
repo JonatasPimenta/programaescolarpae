@@ -18,6 +18,10 @@ Na guia Geral, em Segurança, que está no final da tela marque a opção Desblo
 
 Clique em Aplicar e OK.
 
+Usa a chave de ativação 123654.
+
+Para fazer login use os seguintes dados login: jpimenta senha: 1234
+
 Ao abrir o arquivo pae_demonstracao habilite as macros para usar o programa.
 
 O programa pode ser adaptado para atender a necessidade da sua escola.
